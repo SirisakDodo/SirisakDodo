@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Dev and UX/UI Designer
 --------------------------------
 
-asdasdasda
+A Software Engineering graduate from Mae Fah Luang University with a strong commitment to creating Web Applications and Back-office Management Systems. I am always open to learning new technologies to deliver solutions that effectively meet user needs.
 
 * 🌍  I'm based in Chonburi,Thailand
 * ✉️  You can contact me at [sirisak49276@gmail.com](mailto:sirisak49276@gmail.com)
