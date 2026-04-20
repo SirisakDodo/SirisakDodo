@@ -16,4 +16,4 @@ A Software Engineering graduate from Mae Fah Luang University with a strong comm
 
 ### Socials
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/SirisakDodo) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/sirisak.vongsawat/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/SirisakDodo) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.facebook.com/sirisak.vongsawat/)
